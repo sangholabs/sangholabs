@@ -114,6 +114,13 @@ PC 조립·수리와 액정·배터리 교체, 간단한 납땜도 취미입니�
 | [backfront](https://github.com/sangholabs/backfront) | Spring Boot 백엔드 + Vite/React 프론트엔드 · GitHub Actions CI |
 | [ShinhanDS-FinanceSWAcademy](https://github.com/sangholabs/ShinhanDS-FinanceSWAcademy) | 신한DS 금융SW 아카데미 수업 자료 · Kubernetes 실습 |
 
+### 팀 프로젝트 (부트캠프)
+
+| 저장소 | 내 기여 |
+|---|---|
+| [Sh03SavingTeam](https://github.com/Sh03SavingTeam) — 하루소비 · 소비케어 플랫폼 | `DailyConsume_FE` **59 커밋** · `DailyConsume_BE` **27 커밋** · PR 24건+ (소비 캘린더 · 이상 결제 알림 담당) |
+| [ShinhanDS-Team4/ShinhanDS-TeamProject1](https://github.com/ShinhanDS-Team4/ShinhanDS-TeamProject1) — SAREN · 패션 플랫폼 | **38 커밋** · PR 11건+ (관리자 도메인 단독 담당) |
+
 > 재직 중 만든 n8n 워크플로우와 콘텐츠 자동화 파이프라인은
 > 클라이언트 정보와 API 설정이 포함되어 있어 공개 저장소에 두지 않았습니다.
 > 구조와 설계 판단은 별도로 설명드릴 수 있습니다.
