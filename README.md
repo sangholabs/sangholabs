@@ -107,9 +107,12 @@ PC 조립·수리와 액정·배터리 교체, 간단한 납땜도 취미입니�
 
 | 저장소 | 내용 |
 |---|---|
+| **[INSTATFLOW-AI](https://github.com/sangholabs/INSTATFLOW-AI)** | 브랜드 정보만 넣으면 캡션 · 카드뉴스 기획 · 해시태그를 생성하는 인스타그램 AI 기획 도구. **과대광고 방지 · 의학/법률/금융 확정 표현 필터**를 넣었다 · TypeScript |
+| **[Trinity-Debater](https://github.com/sangholabs/Trinity-Debater)** | Claude Code · Codex · Antigravity **3개 CLI 에이전트를 Discord 채널로 묶는 멀티에이전트 오케스트레이터**. 에이전트끼리 코드를 리뷰하며 릴레이로 작업한다 · Node.js |
+| **[smart-file-organizer](https://github.com/sangholabs/smart-file-organizer)** | 흩어진 중복 파일을 찾아 정리하는 로컬 전용 도구. **영구 삭제 없이 격리 + 되돌리기, 기본이 드라이런.** 이미지 pHash · 문서 MinHash · 영상 키프레임 dHash · 오디오 지문 · Python |
 | [Capstone](https://github.com/sangholabs/Capstone) | OpenCV · PyQt5 알약 이미지 뷰어 — 강원대 졸업작품 **장려상** |
-| [backfront](https://github.com/sangholabs/backfront) | Spring Boot + React 학습 프로젝트 |
-| [ShinhanDS-FinanceSWAcademy](https://github.com/sangholabs/ShinhanDS-FinanceSWAcademy) | 신한DS 금융SW 아카데미 수업 자료 |
+| [backfront](https://github.com/sangholabs/backfront) | Spring Boot 백엔드 + Vite/React 프론트엔드 · GitHub Actions CI |
+| [ShinhanDS-FinanceSWAcademy](https://github.com/sangholabs/ShinhanDS-FinanceSWAcademy) | 신한DS 금융SW 아카데미 수업 자료 · Kubernetes 실습 |
 
 > 재직 중 만든 n8n 워크플로우와 콘텐츠 자동화 파이프라인은
 > 클라이언트 정보와 API 설정이 포함되어 있어 공개 저장소에 두지 않았습니다.
